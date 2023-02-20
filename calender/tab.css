@@ -12,7 +12,9 @@ table,td{
     vertical-align: bottom;
     position:sticky;
 }
-
+th{
+    position:sticky;
+}
 table{
     border:0;
 }
