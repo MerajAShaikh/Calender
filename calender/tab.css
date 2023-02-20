@@ -10,6 +10,7 @@ table,td{
     font-size:65px;
     font-weight: 900;
     vertical-align: bottom;
+    position:sticky;
 }
 
 table{
