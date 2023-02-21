@@ -16,6 +16,8 @@ th{
     position:sticky;
 }
 table{
+    width:980px;
+    height:980px;
     border:0;
 }
 /* td{
